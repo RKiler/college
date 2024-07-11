@@ -1,0 +1,12 @@
+200 OK
+Content-Security-Policy: upgrade-insecure-requests
+Cache-Control: must-revalidate,no-cache,no-store
+X-Content-Type-Options: nosniff
+Server: sfdcedge
+X-Sfdc-Request-Id: 516aa7e8ead52473f0fed3fa79a9d373
+Date: Wed, 10 Jul 2024 23:47:19 GMT
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Retry-Count: 0
+Vary: Accept-Encoding

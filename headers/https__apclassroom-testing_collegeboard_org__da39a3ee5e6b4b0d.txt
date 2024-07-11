@@ -1,0 +1,16 @@
+200 OK
+Content-Length: 7060
+Server: AmazonS3
+X-Amz-Version-Id: Bv8qYSgHL9kLw0cxhgzwWUWqAGd6hjb2
+Date: Wed, 10 Jul 2024 23:47:23 GMT
+Content-Security-Policy-Report-Only: default-src 'self'; img-src 'self' data: heapanalytics.com *.appcues.com *.appcues.net res.cloudinary.com twemoji.maxcdn.com *.collegeboard.org embed-ssl.wistia.com fast.wistia.com *.learnosity.com forms.paperscorer.com media.academicmerit.com learnositymediaprocessed.s3.amazonaws.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.heapanalytics.com heapanalytics.com *.appcues.com *.appcues.net cdn.split.io assets.adobedtm.com *.collegeboard.org *.learnosity.com fast.wistia.com *.youtube.com cdn.cookielaw.org www.desmos.com; style-src 'self' 'unsafe-inline' blob: heapanalytics.com *.appcues.com *.appcues.net fonts.googleapis.com fonts.google.com fast.wistia.com *.collegeboard.org *.learnosity.com https://s3.amazonaws.com www.desmos.com; connect-src heapanalytics.com *.browser-intake-datadoghq.com *.appcues.com *.appcues.net wss://*.appcues.net wss://*.appcues.com *.litix.io *.wistia.com embedwistia-a.akamaihd.net cdn.cookielaw.org geolocation.onetrust.com *.youtube.com *.split.io *.collegeboard.org cb-telemetry.academicmerit.com client-api.auryc.com mt.auryc.com api.rollbar.com *.learnosity.com wistia.com fast.wistia.net clickhelp.co status.us10.clickhelp.co cb.academicmerit.com; worker-src 'self' blob:; font-src 'self' data: heapanalytics.com fonts.gstatic.com *.wistia.com https://s3.amazonaws.com *.learnosity.com; frame-src 'self' *.appcues.com *.learnosity.com; child-src blob:; media-src 'self' blob: embedwistia-a.akamaihd.net embed-fastly.wistia.com fast.wistia.com assets.learnosity.com learnositymediaprocessed.s3.amazonaws.com
+Content-Type: text/html
+Last-Modified: Wed, 10 Jul 2024 19:02:21 GMT
+X-Amz-Cf-Pop: SFO53-P2
+X-Amz-Cf-Id: 10-wPijrm_qCoo3GKJzdJ37Cs3Pw4gZcGJ-CgvKvM6-UosCyACEIbQ==
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Etag: "5ba0543302b95c13cd375f99036dbb38"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 dc3111e5eff45efb8b1b12b8ca8ea854.cloudfront.net (CloudFront)
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

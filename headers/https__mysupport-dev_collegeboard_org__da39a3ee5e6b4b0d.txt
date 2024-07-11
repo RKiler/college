@@ -1,0 +1,16 @@
+200 OK
+Content-Type: text/html;charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+X-Transaction-Id: 98ba48c21b53
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1
+Set-Cookie: BIGipServerpool_collegeboarddev=cbc06e5796f6e1c7a1a924ac58956885; httponly; secure; path=/; SameSite=None glide_user=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly; secure; SameSite=None glide_user_session=; Max-Age=0; Expires=Thu, 01-Jan-1970 00:00:10 GMT; Path=/; HttpOnly; secure; SameSite=None glide_node_id_for_js=bd0687169583268ab023482e9c7a0bb40ceda1df7b4ff67b61eca89454cffc2c; Path=/; secure; SameSite=None
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Server-Timing: sem_wait;dur=0, sesh_wait;dur=0
+X-Is-Logged-In: false
+Expires: 0
+Retry-Count: 0
+Referrer-Policy: same-origin
+Server: snow_adc
+Date: Wed, 10 Jul 2024 23:46:19 GMT
+Pragma: no-store,no-cache

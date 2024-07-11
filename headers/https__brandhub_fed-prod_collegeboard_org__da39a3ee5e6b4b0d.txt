@@ -1,0 +1,20 @@
+200 OK
+Alt-Svc: h3=":443"; ma=86400
+Retry-Count: 0
+Last-Modified: Mon, 09 Jan 2023 16:05:41 GMT
+X-Amz-Server-Side-Encryption: AES256
+Accept-Ranges: bytes
+X-Cache: Hit from cloudfront
+Via: 1.1 6ecf574c848f26fb93b4bc63ae69709a.cloudfront.net (CloudFront)
+Content-Type: text/html
+Vary: Accept-Encoding
+Content-Length: 981
+X-Amz-Meta-Codebuild-Content-Sha256: 39514a5654c179f4a970c5bb73a1dce7bc45ff77fd4fe70f3d78f3e265f59531
+X-Amz-Meta-Codebuild-Content-Md5: 63c615e84220e4a4f5c0e9c56966e645
+Server: AmazonS3
+X-Amz-Cf-Pop: SFO5-C3
+X-Amz-Meta-Codebuild-Buildarn: arn:aws:codebuild:us-east-1:901040937463:build/brandhub:47a485db-e5c5-4638-9e3e-a20bad8d3be7
+Date: Wed, 10 Jul 2024 22:51:14 GMT
+Etag: "c1e00f7d05c7ccfe6f0cd92b2e27a8e1"
+X-Amz-Cf-Id: kcwxW7Mnoqo027idsSBZ5N7fWJ9mgvdmVxcxoqVhO88Ebp2PEGREGA==
+Age: 3362

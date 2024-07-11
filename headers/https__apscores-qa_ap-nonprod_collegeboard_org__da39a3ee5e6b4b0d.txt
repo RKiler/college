@@ -1,0 +1,24 @@
+200 OK
+Server: AmazonS3
+Etag: W/"3e4ae5511187c94b380774609933b371"
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: no-store
+X-Cache: Hit from cloudfront
+Retry-Count: 0
+Last-Modified: Wed, 26 Jun 2024 17:26:25 GMT
+Date: Wed, 10 Jul 2024 10:24:32 GMT
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors 'none';
+Expires: 0
+Pragma: no-cache
+Content-Type: text/html
+X-Amz-Cf-Id: ubTo0RIGws9-vMpHrtJ_7tM-TTKTYG5-Iwbd7SioWOcAcvMT0gX5KA==
+X-Amz-Version-Id: c28Zi6QQpqXRSVKDpvTEbWrHMB12JcbE
+X-Amz-Cf-Pop: SFO53-P4
+X-Amz-Server-Side-Encryption: AES256
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Via: 1.1 8309a274a116732f82ddcbb1f86e3614.cloudfront.net (CloudFront)
+Age: 48147

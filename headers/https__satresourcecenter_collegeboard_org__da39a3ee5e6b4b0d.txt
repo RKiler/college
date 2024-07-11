@@ -1,0 +1,24 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:46:58 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Age: 112
+Via: varnish
+X-Cache: HIT
+Alt-Svc: h3=":443"; ma=86400
+X-Ah-Environment: prod
+X-Cache-Hits: 2
+Cache-Control: max-age=300, public, s-maxage=2628000
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: HIT
+Content-Type: text/html; charset=UTF-8
+X-Drupal-Dynamic-Cache: MISS
+Vary: Cookie,Accept-Encoding
+X-Request-Id: v-2558cb26-38ad-11ef-8eb2-234ed4529dd0
+Server: cloudflare
+Retry-Count: 0
+X-Generator: Drupal 10 (https://www.drupal.org)
+Strict-Transport-Security: max-age=31536000
+Last-Modified: Tue, 02 Jul 2024 19:56:17 GMT
+Cf-Ray: 8a146fae6f0afb3c-SJC

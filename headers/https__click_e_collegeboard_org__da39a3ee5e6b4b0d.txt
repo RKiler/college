@@ -1,0 +1,14 @@
+403 Forbidden
+X-Xss-Protection: 1; mode=block
+Set-Cookie: strict
+Cache-Control: no-cache, must-revalidate, max-age=0, no-store, private
+Content-Type: text/html
+Content-Security-Policy: default-src 'self'; frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Wed, 10 Jul 2024 23:46:48 GMT
+Content-Length: 1233
+X-Content-Type-Options: nosniff
+Permissions-Policy: geolocation=(self), microphone=()
+Retry-Count: 0

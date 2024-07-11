@@ -1,0 +1,26 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:47:08 GMT
+Server: nginx
+X-Rate-Limit-Remaining: 59
+Cache-Control: no-cache, no-store
+Content-Security-Policy: frame-ancestors 'self'
+X-Rate-Limit-Limit: 60
+X-Rate-Limit-Reset: 1720655288
+X-Robots-Tag: noindex,nofollow
+P3p: CP="HONK"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+X-Ua-Compatible: IE=edge
+Content-Security-Policy-Report-Only: default-src 'self' collegeboard-dev.oktapreview.com dev.idp.collegeboard.org *.oktacdn.com; connect-src 'self' collegeboard-dev.oktapreview.com collegeboard-dev-admin.oktapreview.com dev.idp.collegeboard.org *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.oktapreview.com collegeboard-dev.kerberos.oktapreview.com collegeboard-dev.mtls.oktapreview.com https://oinmanager.okta.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' collegeboard-dev.oktapreview.com dev.idp.collegeboard.org *.oktacdn.com; style-src 'unsafe-inline' 'self' collegeboard-dev.oktapreview.com dev.idp.collegeboard.org *.oktacdn.com; frame-src 'self' collegeboard-dev.oktapreview.com collegeboard-dev-admin.oktapreview.com dev.idp.collegeboard.org login.okta.com *.vidyard.com; img-src 'self' collegeboard-dev.oktapreview.com dev.idp.collegeboard.org *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' collegeboard-dev.oktapreview.com dev.idp.collegeboard.org data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'
+Strict-Transport-Security: max-age=315360000; includeSubDomains
+Set-Cookie: sid="";Version=1;Path=/;Max-Age=0 autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/ JSESSIONID=28358E9025FE27E53DA80328FA5F47C6; Path=/; Secure; HttpOnly t=default; Path=/ DT=DI1GtBLy1FYQ-W4qOlfb9yn3w;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Fri, 10 Jul 2026 23:47:08 GMT;HttpOnly
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+X-Xss-Protection: 0
+Pragma: no-cache
+Retry-Count: 0
+X-Okta-Request-Id: Zo8dfOfuhaSgFFb25XEsTAAABc0
+Accept-Ch: Sec-CH-UA-Platform-Version
+Expires: 0
+Content-Language: en
+X-Content-Type-Options: nosniff

@@ -1,0 +1,14 @@
+200 OK
+Etag: W/"aaa3de7d3cab80288b156292add36c2d"
+Last-Modified: Wed, 26 Jun 2024 22:19:30 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Date: Wed, 10 Jul 2024 23:47:15 GMT
+Vary: Accept-Encoding
+X-Amz-Cf-Id: gMAk0Pn8L3vw1lUQ3-4g6oxa4nJASZCNbybnvK00u85hSvDnAbk8aw==
+Expires: Wed, 10 Jul 2024 23:47:15 GMT
+Pragma: no-cache
+Retry-Count: 0
+Strict-Transport-Security: max-age=15768000 ; includeSubDomains
+Content-Type: text/html
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Cf-Pop: SFO5-P1

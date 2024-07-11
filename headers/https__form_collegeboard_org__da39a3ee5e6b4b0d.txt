@@ -1,0 +1,13 @@
+200 OK
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: SAMEORIGIN
+Pragma: no-cache
+Retry-Count: 0
+Cache-Control: no-cache, no-store, must-revalidate
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Date: Wed, 10 Jul 2024 23:46:28 GMT
+Server: nginx
+X-Fa-App: 50-117
+P3p: CP="NOI ADM DEV PSAi COM NAV OUR OTRo STP IND DEM"
+Set-Cookie: CAKEPHP=a874bd06493c830a9a39c57c917c1253; HttpOnly=1; Path=/; SameSite=None; Secure FASRV=2d240045c2a448af; path=/; HttpOnly
+Expires: Thu, 01 Jan 1970 00:00:00 GMT, -1

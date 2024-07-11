@@ -1,0 +1,22 @@
+403 Forbidden
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=86400; includeSubdomains
+Referrer-Policy: same-origin
+Access-Control-Allow-Origin: *
+X-Amz-Cf-Id: xETOWSwFE0sCPlOpvO_X0ai72jFIKEQcKkTDfBdbpLRueZ8cywBMJA==
+Content-Length: 42
+Server: CloudFront
+X-Xss-Protection: 1; mode=block
+Retry-Count: 0
+X-Amzn-Errortype: MissingAuthenticationTokenException
+Expect-Ct: enforce, max-age=86400
+Content-Security-Policy: default-src 'none'; base-uri 'self'; img-src 'self'; script-src 'self'; style-src 'self' https:; object-src 'none'; frame-ancestors 'self'; font-src 'self' https:; form-action 'self'; manifest-src 'self'; connect-src 'self'
+X-Amzn-Requestid: 26f8e775-c7dc-49f0-b889-85cb3eb2c25f
+X-Amz-Apigw-Id: auGKoGEKoAMEXTg=
+X-Amz-Cf-Pop: HIO52-P1 SFO53-P4
+X-Cache: Error from cloudfront
+Content-Type: application/json
+Date: Wed, 10 Jul 2024 23:47:02 GMT
+X-Amzn-Trace-Id: Root=1-668f1d76-12d0b2ba30c30cba623c0c92
+Via: 1.1 4b800f7fa2c3fbb9f4f3c505b0df315e.cloudfront.net (CloudFront), 1.1 ea1862352a6a71b0da7914ad100ea890.cloudfront.net (CloudFront)
+X-Content-Type-Options: nosniff

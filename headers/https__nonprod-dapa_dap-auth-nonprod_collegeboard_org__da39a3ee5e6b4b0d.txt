@@ -1,0 +1,22 @@
+403 Forbidden
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+X-Amzn-Requestid: e1e9d8dd-9ab8-4cbb-b7dc-82400c8ab06c
+X-Amz-Cf-Id: 3Zh0sZRXLq8ec_Iu0J6P6bhLEukE5psTtw92jlRkXz9yOPnedgznbA==
+Content-Length: 42
+X-Amzn-Trace-Id: Root=1-668f1d82-0478777106b07d07574f738c
+X-Frame-Options: DENY
+Access-Control-Allow-Origin: *
+Content-Security-Policy: default-src 'none'; base-uri 'self'; img-src 'self'; script-src 'self'; style-src 'self' https:; object-src 'none'; frame-ancestors 'self'; font-src 'self' https:; form-action 'self'; manifest-src 'self'; connect-src 'self'
+Retry-Count: 0
+Via: 1.1 2a02ac7e0927ff4d681c73fb791a7754.cloudfront.net (CloudFront), 1.1 33296fd8128d04868ae5ae8907ff3c6c.cloudfront.net (CloudFront)
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=86400; includeSubdomains
+X-Amzn-Errortype: MissingAuthenticationTokenException
+X-Cache: Error from cloudfront
+Content-Type: application/json
+Server: CloudFront
+Date: Wed, 10 Jul 2024 23:47:14 GMT
+X-Amz-Cf-Pop: HIO50-C2 SFO53-P2
+X-Amz-Apigw-Id: auGMYGxvoAMERHQ=
+Expect-Ct: enforce, max-age=86400

@@ -1,0 +1,14 @@
+200 OK
+Content-Type: text/html
+X-Amz-Server-Side-Encryption: AES256
+Vary: Accept-Encoding
+X-Amz-Cf-Pop: SFO20-C1
+X-Amz-Cf-Id: CM7zBHDWsyMtx5KZ9a-6tEuVkyE3WDp1tCVTBBlNETIQJlfvThBIsg==
+Alt-Svc: h3=":443"; ma=86400
+Retry-Count: 0
+Server: AmazonS3
+Date: Wed, 10 Jul 2024 23:46:39 GMT
+Etag: W/"0ede47025e0dd9734700a52569e93603"
+Via: 1.1 18d8a69a30308aa071168e8aed30be36.cloudfront.net (CloudFront)
+Last-Modified: Fri, 03 Nov 2023 20:30:39 GMT
+X-Cache: RefreshHit from cloudfront

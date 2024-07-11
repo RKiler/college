@@ -1,0 +1,15 @@
+200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type: nosniff
+Cache-Control: no-cache, no-store,no-cache
+Expires: -1
+X-Powered-By: ASP.NET
+Content-Security-Policy: script-src 'self' ajax.googleapis.com assets.adobedtm.com cdn.cookielaw.org www.youtube.com 'unsafe-inline' 'unsafe-eval'; style-src 'self' http://fonts.googleapis.com 'unsafe-inline'; img-src 'self' strack.collegeboard.org 'unsafe-inline';
+Set-Cookie: prod-collegeboardCORS=0836347c92284982831e69f1477aa31a; Path=/; SameSite=None; Secure prod-collegeboard=0836347c92284982831e69f1477aa31a; Path=/ ASP.NET_SessionId=hntceyvokpfgkhewvjc3wif1; path=/; HttpOnly; SameSite=Lax Secure
+Date: Wed, 10 Jul 2024 23:46:54 GMT
+Retry-Count: 0
+Server: Microsoft-IIS/10.0
+X-Aspnet-Version: 4.0.30319
+Content-Type: text/html; charset=utf-8
+Content-Length: 14776
+Pragma: no-cache

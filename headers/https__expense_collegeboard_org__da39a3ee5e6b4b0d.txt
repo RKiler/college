@@ -1,0 +1,23 @@
+200 OK
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+P3p: CP="DSP CUR OTPi IND OTRi ONL FIN"
+X-Ms-Request-Id: b73b0b2a-749e-423b-b0a2-88b100530300
+X-Xss-Protection: 0
+Nel: {"report_to":"network-errors","max_age":86400,"success_fraction":0.001,"failure_fraction":1.0}
+X-Ms-Srs: 1.P
+Set-Cookie: buid=0.ARMA7b0wdW79WE-10upoHrB2Y16Zkyd9CtdAvTVpaLoUIZfaAAA.AQABGgEAAAApTwJmzXqdR4BN2miheQMY9ws66kArAekZDT0SGvHhuj4BzDUiUDrkb2lZ6VxIopxQIg2yQqFwFfD5X776Qts1f2b2hOPfKZngpFDU2OsOQo3iSnz6WvTrRa_aRdA4TBMgAA; expires=Fri, 09-Aug-2024 23:46:46 GMT; path=/; secure; HttpOnly esctx=PAQABBwEAAAApTwJmzXqdR4BN2miheQMYaiXTsWh0nSVydwgAYkkR8TsdWbLwQnnN50DJE40UOgPlE8R5cOe7NpFKiTCIhSXfWNM-IwJsbuuAdjiuioB1OWsgNjp0kuzrCYxWE_io9wAhSwFQXD-L53yMF9dL6ZepqpoXTl3LXOyaB6oB4kM84uXBVYrhLb_N7kwI5UHONRcgAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly esctx-CSdVSXtdUjI=AQABCQEAAAApTwJmzXqdR4BN2miheQMYmwc1vHcyWako6WyWvxbgQHglXLZwFgDCTKWufweQvtvVnhRgqvK9HbjQwyMwaDYSVg1TBwP49wbFIVhTY5ISfzMtmDeBzBNFuaIpD8WqSxcO7mv2MoGTDtMEVzewc3PehTSOHnidc4Bb41LWeahOUyAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly fpc=AiGzAgm0McpAkmRXACVqA_ln_5PdAQAAAGUUId4OAAAA; expires=Fri, 09-Aug-2024 23:46:46 GMT; path=/; secure; HttpOnly x-ms-gateway-slice=estsfd; path=/; secure; httponly stsservicecookie=estsfd; path=/; secure; httponly
+Cache-Control: no-store, no-cache
+Content-Type: text/html; charset=utf-8
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Dns-Prefetch-Control: on
+Date: Wed, 10 Jul 2024 23:46:45 GMT
+Retry-Count: 0
+Expires: -1
+Link: <https://aadcdn.msftauth.net>; rel=preconnect; crossorigin,<https://aadcdn.msftauth.net>; rel=dns-prefetch,<https://aadcdn.msauth.net>; rel=dns-prefetch
+Report-To: {"group":"network-errors","max_age":86400,"endpoints":[{"url":"https://identity.nel.measure.office.net/api/report?catId=GW+estsfd+est"}]}
+Referrer-Policy: strict-origin-when-cross-origin
+X-Ms-Clitelem: 1,0,0,,
+Pragma: no-cache
+X-Ms-Ests-Server: 2.1.18463.4 - SCUS ProdSlices

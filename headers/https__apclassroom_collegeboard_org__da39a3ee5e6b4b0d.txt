@@ -1,0 +1,16 @@
+200 OK
+Last-Modified: Tue, 02 Jul 2024 06:23:33 GMT
+X-Content-Type-Options: nosniff
+Content-Length: 6776
+Server: AmazonS3
+X-Amz-Cf-Pop: SFO20-C1
+Retry-Count: 0
+X-Amz-Version-Id: BX54136QlPbdbnZtfV29iBivR2kXkzN_
+Date: Wed, 10 Jul 2024 23:46:49 GMT
+Content-Security-Policy-Report-Only: default-src 'self'; img-src 'self' data: heapanalytics.com *.appcues.com *.appcues.net res.cloudinary.com twemoji.maxcdn.com *.collegeboard.org embed-ssl.wistia.com fast.wistia.com *.learnosity.com forms.paperscorer.com media.academicmerit.com learnositymediaprocessed.s3.amazonaws.com; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.heapanalytics.com heapanalytics.com *.appcues.com *.appcues.net cdn.split.io assets.adobedtm.com *.collegeboard.org *.learnosity.com fast.wistia.com *.youtube.com cdn.cookielaw.org www.desmos.com; style-src 'self' 'unsafe-inline' blob: heapanalytics.com *.appcues.com *.appcues.net fonts.googleapis.com fonts.google.com fast.wistia.com *.collegeboard.org *.learnosity.com https://s3.amazonaws.com www.desmos.com; connect-src heapanalytics.com *.browser-intake-datadoghq.com *.appcues.com *.appcues.net wss://*.appcues.net wss://*.appcues.com *.litix.io *.wistia.com embedwistia-a.akamaihd.net cdn.cookielaw.org geolocation.onetrust.com *.youtube.com *.split.io *.collegeboard.org cb-telemetry.academicmerit.com client-api.auryc.com mt.auryc.com api.rollbar.com *.learnosity.com wistia.com fast.wistia.net clickhelp.co status.us10.clickhelp.co cb.academicmerit.com; worker-src 'self' blob:; font-src 'self' data: heapanalytics.com fonts.gstatic.com *.wistia.com https://s3.amazonaws.com *.learnosity.com; frame-src 'self' *.appcues.com *.learnosity.com; child-src blob:; media-src 'self' blob: embedwistia-a.akamaihd.net embed-fastly.wistia.com fast.wistia.com assets.learnosity.com learnositymediaprocessed.s3.amazonaws.com
+Content-Type: text/html
+Etag: "ae77aa82ea9b81b2a20b1dc115945fe0"
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 3d33f952c2b7fe5b0308385e96c9263c.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: nOL2FaGD3BSfIlsgYT7WLE42kVo_2d8CWH9y4p3T2EwFCU_UQVkzIg==
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload

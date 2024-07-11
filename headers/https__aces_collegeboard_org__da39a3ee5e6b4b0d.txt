@@ -1,0 +1,12 @@
+403 Forbidden
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Cache-Control: max-age=15
+Expires: Wed, 10 Jul 2024 23:47:02 GMT
+Vary: Accept-Encoding
+Cf-Ray: 8a146f6779b7f96b-SJC
+Date: Wed, 10 Jul 2024 23:46:47 GMT
+Content-Type: text/html; charset=UTF-8
+Retry-Count: 0
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

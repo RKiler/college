@@ -1,0 +1,14 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:46:44 GMT
+Content-Type: text/html; charset=utf-8
+Server: Microsoft-IIS/10.0
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Content-Length: 3490
+Cache-Control: no-cache, no-store,no-cache, no-store, must-revalidate
+Set-Cookie: idocbeta-collegeboardCORS=db067b7c12dcc6474d5e9aca5662dc8f; Path=/; SameSite=None; Secure idocbeta-collegeboard=db067b7c12dcc6474d5e9aca5662dc8f; Path=/ ASP.NET_SessionId=hutzoiod4axgmop4y455uygw; path=/; secure; HttpOnly; SameSite=Lax
+Expires: -1,0
+X-Aspnet-Version: 4.0.30319
+Pragma: no-cache,no-cache
+X-Powered-By: ASP.NET

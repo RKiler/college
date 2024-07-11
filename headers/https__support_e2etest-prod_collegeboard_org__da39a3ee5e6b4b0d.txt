@@ -1,0 +1,16 @@
+200 OK
+Cache-Control: max-age=0,no-cache,no-store,must-revalidate
+Content-Type: text/html;charset=utf-8
+Last-Modified: Mon, 17 Jun 2024 19:17:55 GMT
+Server: AmazonS3
+X-Amz-Cf-Pop: SFO5-P2
+X-Amz-Cf-Id: EakSPntkSDX0TuNg7w-4jpEBwmsfb79CYuvdcy8QIiiidBdLKCvM3Q==
+Retry-Count: 0
+Content-Length: 733
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Via: 1.1 87e907bf938f21f1b962d1401b077d14.cloudfront.net (CloudFront)
+X-Amz-Server-Side-Encryption: AES256
+Date: Wed, 10 Jul 2024 23:47:08 GMT
+Etag: "ef029a29ff9ea63f100a3b021d76d83b"
+X-Cache: RefreshHit from cloudfront

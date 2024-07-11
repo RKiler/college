@@ -1,0 +1,25 @@
+200 OK
+Server-Timing: cdn-upstream-layer;desc="EDGE",cdn-upstream-dns;dur=0,cdn-upstream-connect;dur=0,cdn-upstream-fbl;dur=36,cdn-cache-miss,cdn-pop;desc="SFO53-P1",cdn-rid;desc="Pq9VfGQVq_FNc4e98mPvKK4iOMmFigk42pHk04tAvdpnlPQGckya3g==",cdn-downstream-fbl;dur=38
+Expires: 0
+Report-To: {"endpoints": [{"url": "https://dz8aopenkvv6s.cloudfront.net"}], "group": "endpoint-1", "include_subdomains": true, "max_age": 600}
+X-Amz-Cf-Pop: SFO53-P1
+Retry-Count: 0
+X-Amz-Cf-Id: Pq9VfGQVq_FNc4e98mPvKK4iOMmFigk42pHk04tAvdpnlPQGckya3g==
+Content-Type: text/html
+X-Frame-Options: SAMEORIGIN
+Atl-Traceid: baed4a9e93a9462da8b8fa2853a142b4
+Via: 1.1 ae36c784d97e7ce679dceb12ec90e722.cloudfront.net (CloudFront)
+Pragma: no-cache
+Referrer-Policy: origin
+Strict-Transport-Security: max-age=63072000; preload
+X-Cache: Miss from cloudfront
+Vary: Accept-Encoding Origin,Access-Control-Request-Method,Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Date: Wed, 10 Jul 2024 23:46:33 GMT
+Server: AtlassianEdge
+Served-By: sign-in-service
+Set-Cookie: atlassian.account.ffs.id=58aaa420-d403-49c3-ad4c-5a6479f9d7ec; Max-Age=31536000; Expires=Thu, 10 Jul 2025 23:46:33 GMT; Path=/; Secure; HTTPOnly atlassian.account.xsrf.token=985cc771-bada-4b76-b3cf-919c55372ea5; Path=/; Secure; HTTPOnly cloud.session.token=deleted; Max-Age=0; Expires=Wed, 10 Jul 2024 23:46:33 GMT; Path=/; Secure; HTTPOnly cloud.session.token=deleted; Max-Age=0; Expires=Wed, 10 Jul 2024 23:46:33 GMT; Path=/; Domain=.10.255.0.9; Secure; HTTPOnly
+Nel: {"failure_fraction": 0.001, "include_subdomains": true, "max_age": 600, "report_to": "endpoint-1"}
+Content-Security-Policy: base-uri 'self'; object-src 'none'; script-src https://aid-frontend.prod.atl-paas.net/ https://id-frontend.prod-east.frontend.public.atl-paas.net/ https://metal.prod.atl-paas.net/ https://common-admin-cdn.atlassian.com/ https://recaptcha.net/ https://www.recaptcha.net/ https://js.sentry-cdn.com/ https://browser.sentry-cdn.com/ 'nonce-0ByrKCcagKmTL+tMPeIlL51jqJk=' 'self'; report-uri https://web-security-reports.services.atlassian.com/csp-report/sign-in-service
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate

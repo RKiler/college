@@ -1,0 +1,24 @@
+200 OK
+X-Ah-Environment: prod
+X-Cache: HIT
+X-Cache-Hits: 43
+Cf-Cache-Status: HIT
+Content-Type: text/html; charset=UTF-8
+X-Drupal-Dynamic-Cache: HIT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+Cf-Ray: 8a146ecaed5e26b0-SJC
+Server: cloudflare
+Vary: Cookie,Accept-Encoding
+X-Request-Id: v-2ad48112-38ad-11ef-a5d4-e3eb79bcfa5d
+Age: 137
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Tue, 02 Jul 2024 19:56:27 GMT
+Strict-Transport-Security: max-age=31536000
+Via: varnish
+Alt-Svc: h3=":443"; ma=86400
+Date: Wed, 10 Jul 2024 23:46:22 GMT
+Retry-Count: 0
+Cache-Control: max-age=300, public, s-maxage=2628000
+X-Content-Type-Options: nosniff

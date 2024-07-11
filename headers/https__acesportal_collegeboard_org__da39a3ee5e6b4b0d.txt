@@ -1,0 +1,13 @@
+200 200
+Cache-Control: no-store
+Set-Cookie: JSESSIONID=0D6EEB049C9ED4F27AE538FE48620AB5; Path=/portal; Secure; HttpOnly
+Server: Apache/2.4.41 (Ubuntu)
+X-Content-Type-Options: nosniff
+Retry-Count: 0
+Content-Type: text/html;charset=UTF-8
+Content-Language: en-US
+Date: Wed, 10 Jul 2024 23:46:32 GMT
+Vary: Origin,Accept-Encoding,Access-Control-Request-Method,Access-Control-Request-Headers
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains max-age=31536000
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: DENY

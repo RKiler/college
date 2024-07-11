@@ -1,0 +1,23 @@
+200 OK
+Retry-Count: 0
+X-Amz-Version-Id: mvfCR0ocopbkPqRp4c1YXa5tJ5AOFn4r
+Server: AmazonS3
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+Content-Type: text/html
+Date: Wed, 10 Jul 2024 23:45:47 GMT
+Vary: Accept-Encoding
+X-Amz-Cf-Id: 04oQ-hj4OHNY6EPk0QrFcgh3nM1xFRI0jQPdvjm4p1l-CHJ8aOsT1Q==
+Age: 54
+X-Xss-Protection: 1; mode=block
+Accept-Ranges: bytes
+Cache-Control: max-age=60
+X-Amz-Server-Side-Encryption: AES256
+Last-Modified: Mon, 01 Jul 2024 01:35:09 GMT
+Etag: "0a181adeb78d22ded25fe40e8dd76435"
+X-Cache: Error from cloudfront
+Via: 1.1 55bc97432f52f2c0b668b3f5b955e0ac.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO53-P5
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Length: 2670

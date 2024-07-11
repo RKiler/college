@@ -1,0 +1,14 @@
+200 OK
+Vary: Accept-Encoding
+Age: 52636
+X-Amz-Server-Side-Encryption: AES256
+Via: 1.1 2594ddbb44fb290013da3027d16ab10a.cloudfront.net (CloudFront)
+X-Cache: Error from cloudfront
+Last-Modified: Fri, 28 Jan 2022 18:54:54 GMT
+Retry-Count: 0
+Date: Wed, 10 Jul 2024 09:09:01 GMT
+Etag: W/"d35aa82d02b0b37b92b78ce72d28b67f"
+Server: AmazonS3
+X-Amz-Cf-Pop: SFO5-C3
+X-Amz-Cf-Id: spPLOhk5OsZdLj7YU68vDcyMkMAWXqMyM45hddXhy8X1NkR83rsBXQ==
+Content-Type: text/html

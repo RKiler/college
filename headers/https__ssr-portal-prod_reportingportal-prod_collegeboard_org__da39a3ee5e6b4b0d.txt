@@ -1,0 +1,13 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:46:39 GMT
+Via: 1.1 3c07393070825e432329283f07a9d994.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: 7bEsu6FVhKJ6gb39pRB-7ivnIpQhpjHyz9RO9qxcCQUVQj6asikfIw==
+Retry-Count: 0
+X-Amz-Server-Side-Encryption: AES256
+Vary: Accept-Encoding
+Etag: W/"26992036e7afc90c8b66887faad08b8f"
+Server: AmazonS3
+Content-Type: text/html
+Last-Modified: Fri, 28 Jun 2024 15:43:39 GMT
+X-Cache: Miss from cloudfront
+X-Amz-Cf-Pop: SFO53-P5

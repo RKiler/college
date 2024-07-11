@@ -1,0 +1,18 @@
+200 OK
+Content-Security-Policy: upgrade-insecure-requests frame-ancestors 'self'
+Vary: Origin, Accept-Encoding
+Server: sfdcedge
+Retry-Count: 0
+Content-Type: text/html;charset=UTF-8
+Server-Timing: Total;dur=180
+Set-Cookie: renderCtx=%7B%22pageId%22%3A%226d5c5bbe-2dbe-4a2a-acd7-0eee5e7145aa%22%2C%22schema%22%3A%22Published%22%2C%22viewType%22%3A%22Published%22%2C%22brandingSetId%22%3A%22f9877eee-cb95-4ce1-8217-b3c2a41509e4%22%2C%22audienceIds%22%3A%22%22%7D; path=/APCapstone/s; secure
+X-Content-Type-Options: nosniff
+Link: </APCapstone/s/sfsites/auraFW/javascript/WFIwUmVJdmtIRnI3MTFpX0d6c1VwQWhZX25NdHFVdGpDN3BnWlROY1ZGT3cyNTAuOC4zLTYuNC41/aura_prod.js>;rel=preload;as=script;nopush,</APCapstone/s/sfsites/l/%7B%22mode%22%3A%22PROD%22%2C%22cac%22%3A0%2C%22app%22%3A%22siteforce%3AcommunityApp%22%2C%22serializationVersion%22%3A%221-250.8.3-6.4.5-b%22%2C%22parts%22%3A%22f%22%2C%22loaded%22%3A%7B%22APPLICATION%40markup%3A%2F%2Fsiteforce%3AcommunityApp%22%3A%22-X2TSlo6x6LsfpV5hla4iA%22%7D%2C%22dns%22%3A%22c%22%2C%22ls%22%3A1%2C%22lrmc%22%3A%22-386269907%22%7D/app.js?2=>;rel=preload;as=script;nopush
+Cache-Control: no-cache,must-revalidate,max-age=0,no-store,private
+Date: Wed, 10 Jul 2024 23:46:52 GMT
+X-Frame-Options: SAMEORIGIN
+Timing-Allow-Origin: *
+Expires: Tue, 11 Jul 2023 23:46:52 GMT
+X-Sfdc-Request-Id: 854c9d414a8b86865360663ac36b7ff2
+Last-Modified: Tue, 11 Jul 2023 23:46:52 GMT
+Strict-Transport-Security: max-age=63072000; includeSubDomains

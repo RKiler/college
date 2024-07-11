@@ -1,0 +1,20 @@
+403 Forbidden
+Content-Type: text/plain; charset=utf-8
+Sprequestguid: 77133ba1-90a0-0000-1a10-bbdfbf41451e
+Ms-Cv: oTsTd6CQAAAaELvfv0FFHg.0
+X-Content-Type-Options: nosniff
+X-Cache: CONFIG_NOCACHE
+X-Networkstatistics: 0,4204800,25,267,1575089,0,3473456,32
+X-Sharepointhealthscore: 2
+Sprequestduration: 17
+X-Powered-By: ASP.NET
+Date: Wed, 10 Jul 2024 23:46:32 GMT
+P3p: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+Request-Id: 77133ba1-90a0-0000-1a10-bbdfbf41451e
+Strict-Transport-Security: max-age=31536000
+X-Ms-Invokeapp: 1; RequireReadOnly
+X-Msedge-Ref: Ref A: 34C5D728CA6845AF95E2D7C4F3E30A09 Ref B: SJC211051204047 Ref C: 2024-07-10T23:46:32Z
+Retry-Count: 0
+Content-Length: 13
+Spiislatency: 1
+Microsoftsharepointteamservices: 16.0.0.25019

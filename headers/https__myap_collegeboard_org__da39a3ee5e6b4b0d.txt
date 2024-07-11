@@ -1,0 +1,23 @@
+200 OK
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: SFO53-P5
+Referrer-Policy: same-origin
+Retry-Count: 0
+Cache-Control: max-age=60
+Last-Modified: Mon, 01 Jul 2024 01:35:09 GMT
+Date: Wed, 10 Jul 2024 23:45:46 GMT
+Via: 1.1 3122c5a5fddd57d64787165c6e0a17ee.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: -PdqvR52rqpBbbDfio6pCUTCefd9IKEr8XuktECmW2StoUyixBCfEw==
+Content-Length: 2670
+X-Amz-Server-Side-Encryption: AES256
+Accept-Ranges: bytes
+Server: AmazonS3
+Etag: "0a181adeb78d22ded25fe40e8dd76435"
+Vary: Accept-Encoding
+Age: 53
+X-Frame-Options: DENY
+Content-Type: text/html
+X-Content-Type-Options: nosniff
+X-Amz-Version-Id: mvfCR0ocopbkPqRp4c1YXa5tJ5AOFn4r
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000; includeSubDomains

@@ -1,0 +1,17 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:46:17 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8a146eaa6bca227e-SJC
+X-Cache: HIT: 5
+Cf-Cache-Status: HIT
+Server: cloudflare
+Retry-Count: 0
+Vary: Accept-Encoding Accept-Encoding Accept-Encoding Accept-Encoding,Cookie
+Link: <https://latam.collegeboard.org/>; rel=shortlink
+X-Powered-By: WP Engine
+Cache-Control: max-age=600, must-revalidate
+X-Cacheable: SHORT
+X-Cache-Group: normal
+Age: 340
+Last-Modified: Wed, 10 Jul 2024 23:40:37 GMT
+Alt-Svc: h3=":443"; ma=86400

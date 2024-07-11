@@ -1,0 +1,26 @@
+200 OK
+X-Frame-Options: SAMEORIGIN
+Date: Wed, 10 Jul 2024 23:47:16 GMT
+Set-Cookie: sid="";Version=1;Path=/;Max-Age=0 autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/ JSESSIONID=660B1E1344CCB40D03195B9484D20936; Path=/; Secure; HttpOnly t=default; Path=/ DT=DI1X34z35wrSyiYyZZ0W18YMg;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Fri, 10 Jul 2026 23:47:16 GMT;HttpOnly
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding
+Accept-Ch: Sec-CH-UA-Platform-Version
+Pragma: no-cache
+Content-Type: text/html;charset=utf-8
+P3p: CP="HONK"
+Content-Security-Policy: frame-ancestors 'self'
+X-Rate-Limit-Limit: 1200
+X-Rate-Limit-Reset: 1720655296
+Server: nginx
+Expires: 0
+X-Ua-Compatible: IE=edge
+Content-Language: en
+X-Okta-Request-Id: Zo8dhFqctd7BG8V3O6GrdwAAAPE
+Content-Security-Policy-Report-Only: default-src 'self' collegeboard-preprod.oktapreview.com preprod.idp.collegeboard.org *.oktacdn.com; connect-src 'self' collegeboard-preprod.oktapreview.com collegeboard-preprod-admin.oktapreview.com preprod.idp.collegeboard.org *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.oktapreview.com collegeboard-preprod.kerberos.oktapreview.com collegeboard-preprod.mtls.oktapreview.com https://oinmanager.okta.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' collegeboard-preprod.oktapreview.com preprod.idp.collegeboard.org *.oktacdn.com; style-src 'unsafe-inline' 'self' collegeboard-preprod.oktapreview.com preprod.idp.collegeboard.org *.oktacdn.com; frame-src 'self' collegeboard-preprod.oktapreview.com collegeboard-preprod-admin.oktapreview.com preprod.idp.collegeboard.org login.okta.com *.vidyard.com; img-src 'self' collegeboard-preprod.oktapreview.com preprod.idp.collegeboard.org *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' collegeboard-preprod.oktapreview.com preprod.idp.collegeboard.org data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'
+X-Xss-Protection: 0
+X-Rate-Limit-Remaining: 1199
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=315360000; includeSubDomains
+X-Robots-Tag: noindex,nofollow
+Retry-Count: 0
+X-Content-Type-Options: nosniff

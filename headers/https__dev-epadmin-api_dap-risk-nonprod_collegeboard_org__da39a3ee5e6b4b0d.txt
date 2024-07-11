@@ -1,0 +1,9 @@
+403 Forbidden
+X-Amzn-Trace-Id: Root=1-668f1d7e-7e39c0075a2cdaa750dc525d
+Date: Wed, 10 Jul 2024 23:47:10 GMT
+Content-Type: application/json
+Content-Length: 23
+Retry-Count: 0
+X-Amzn-Requestid: 7346b852-f39a-4a13-8cf4-62ac5a6a9bbd
+X-Amzn-Errortype: ForbiddenException
+X-Amz-Apigw-Id: auGL2EoMoAMEGog=

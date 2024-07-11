@@ -1,0 +1,26 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:47:08 GMT
+X-Xss-Protection: 0
+Content-Security-Policy: frame-ancestors 'self'
+X-Rate-Limit-Limit: 60
+X-Rate-Limit-Reset: 1720655288
+Content-Language: en
+Set-Cookie: sid="";Version=1;Path=/;Max-Age=0 autolaunch_triggered=""; Expires=Thu, 01 Jan 1970 00:00:10 GMT; Path=/ JSESSIONID=544B6A43001827436701BC8A277D4F73; Path=/; Secure; HttpOnly t=default; Path=/ DT=DI1W36YeZ0vRkOhri5DBpprlQ;Version=1;Path=/;Max-Age=63072000;Secure;Expires=Fri, 10 Jul 2026 23:47:08 GMT;HttpOnly
+Vary: Accept-Encoding
+X-Okta-Request-Id: Zo8dfO6U2JKE8RxyC3wZ3AAACDY
+Strict-Transport-Security: max-age=315360000; includeSubDomains
+Cache-Control: no-cache, no-store
+Expires: 0
+Content-Type: text/html;charset=utf-8
+X-Content-Type-Options: nosniff
+P3p: CP="HONK"
+Referrer-Policy: strict-origin-when-cross-origin
+X-Ua-Compatible: IE=edge
+X-Robots-Tag: noindex,nofollow
+Server: nginx
+Pragma: no-cache
+X-Rate-Limit-Remaining: 59
+Accept-Ch: Sec-CH-UA-Platform-Version
+Content-Security-Policy-Report-Only: default-src 'self' collegeboard.okta.com prod.idp.collegeboard.org *.oktacdn.com; connect-src 'self' collegeboard.okta.com collegeboard-admin.okta.com prod.idp.collegeboard.org *.oktacdn.com *.mixpanel.com *.mapbox.com *.mtls.okta.com collegeboard.kerberos.okta.com collegeboard.mtls.okta.com https://oinmanager.okta.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com; script-src 'unsafe-inline' 'unsafe-eval' 'self' collegeboard.okta.com prod.idp.collegeboard.org *.oktacdn.com; style-src 'unsafe-inline' 'self' collegeboard.okta.com prod.idp.collegeboard.org *.oktacdn.com; frame-src 'self' collegeboard.okta.com collegeboard-admin.okta.com prod.idp.collegeboard.org login.okta.com *.vidyard.com; img-src 'self' collegeboard.okta.com prod.idp.collegeboard.org *.oktacdn.com *.tiles.mapbox.com *.mapbox.com *.vidyard.com data: data.pendo.io pendo-static-5634101834153984.storage.googleapis.com pendo-static-5391521872216064.storage.googleapis.com blob:; font-src 'self' collegeboard.okta.com prod.idp.collegeboard.org data: *.oktacdn.com fonts.gstatic.com; frame-ancestors 'self'
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0

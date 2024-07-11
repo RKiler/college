@@ -1,0 +1,20 @@
+200 OK
+Last-Modified: Fri, 21 Jun 2024 21:33:14 GMT
+X-Amz-Meta-Codebuild-Content-Md5: fde5704eaf85c8db5c6cded0755e6555
+Etag: W/"88d69dde082b74234fb153b88727fbc8"
+X-Amz-Replication-Status: COMPLETED
+Server: AmazonS3
+X-Amz-Cf-Id: Xp0709SJpKPmMW7jDchg-XkAkWAuz9twqsi-mr9ezhC19B1rgkfqNQ==
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: kXSmD8pkxCzBDjIRajzrcSTneoR2TCrk
+X-Cache: Hit from cloudfront
+Via: 1.1 83a6f42adff040301dd9cde8ff611a9c.cloudfront.net (CloudFront)
+Content-Type: text/html
+Retry-Count: 0
+Date: Wed, 10 Jul 2024 21:23:25 GMT
+Cache-Control: max-age=14400
+Vary: Accept-Encoding
+X-Amz-Cf-Pop: SFO53-C1
+Age: 8585
+X-Amz-Meta-Codebuild-Content-Sha256: 84f410e6fc40b161a12bc0c169277b9821bf8990ff1c0416bb8991d6e8331a91
+X-Amz-Meta-Codebuild-Buildarn: arn:aws:codebuild:us-east-1:383899725607:build/cb-exam-player-build-launch-site-prod:4080f249-1bcc-4a91-9cee-829f18cfbea6

@@ -1,0 +1,22 @@
+403 Forbidden
+Retry-Count: 0
+X-Amzn-Trace-Id: Root=1-668f1d76-6510230d7efd05d26e2bda24
+X-Amz-Apigw-Id: auGKmGegIAMEk5g=
+Strict-Transport-Security: max-age=86400; includeSubdomains
+Content-Security-Policy: default-src 'none'; base-uri 'self'; img-src 'self'; script-src 'self'; style-src 'self' https:; object-src 'none'; frame-ancestors 'self'; font-src 'self' https:; form-action 'self'; manifest-src 'self'; connect-src 'self'
+X-Amzn-Requestid: eec84e0a-cb0e-4980-898d-9361472c2201
+X-Amzn-Errortype: MissingAuthenticationTokenException
+X-Amz-Cf-Pop: HIO52-P2 SFO53-P3
+Date: Wed, 10 Jul 2024 23:47:02 GMT
+Via: 1.1 e2ad8d56b8dbdb69144113ad1c008e02.cloudfront.net (CloudFront), 1.1 feca0fb83230a477d3d173edd899e5f0.cloudfront.net (CloudFront)
+X-Frame-Options: DENY
+Access-Control-Allow-Origin: *
+Expect-Ct: enforce, max-age=86400
+X-Cache: Error from cloudfront
+Content-Length: 42
+Server: CloudFront
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+X-Amz-Cf-Id: -O3NdobNhI51aqwTTahyE7pWlvzuBpjHtvbeUQKDDyxdVAB3Jydp_w==
+Content-Type: application/json

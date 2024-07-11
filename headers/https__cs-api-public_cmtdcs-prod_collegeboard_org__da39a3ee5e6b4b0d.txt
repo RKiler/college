@@ -1,0 +1,15 @@
+403 Forbidden
+Content-Length: 23
+Via: 1.1 36558cb00b679b60f8b6b32e03075a28.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-P1
+X-Amz-Cf-Id: quBOVp8mlo7TlZfv7AOMBMD1V2cauwQfv6ogliEjmJmfJvroZt2S0Q==
+Server: cloudflare
+Cf-Ray: 8a146fbacbdafa36-SJC
+Content-Type: application/json
+X-Amzn-Requestid: f4ca7b31-6269-47ee-900f-d42b8bf731c7
+X-Amzn-Errortype: ForbiddenException
+Retry-Count: 0
+Cf-Cache-Status: DYNAMIC
+Date: Wed, 10 Jul 2024 23:47:01 GMT
+X-Amz-Apigw-Id: auGKVGH6IAMEN8g=
+X-Cache: Error from cloudfront

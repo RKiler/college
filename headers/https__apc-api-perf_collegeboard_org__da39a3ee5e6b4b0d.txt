@@ -1,0 +1,14 @@
+200 OK
+Retry-Count: 0
+Ft_otel_traceid: e21625783c387129ba0c61780386093b
+Cache-Control: no-cache
+Content-Security-Policy: default-src; self; collegeboard.org; *.collegeboard.org
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Wed, 10 Jul 2024 23:47:06 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 11
+Server: nginx
+Expires: Wed, 10 Jul 2024 23:47:05 GMT
+Access-Control-Allow-Credentials: true
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff

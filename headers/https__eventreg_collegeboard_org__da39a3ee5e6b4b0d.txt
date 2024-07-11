@@ -1,0 +1,17 @@
+200 OK
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Amz-Apigw-Id: auGKLGHQIAMEc1w=
+Retry-Count: 0
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Date: Wed, 10 Jul 2024 23:47:00 GMT
+X-Amzn-Remapped-Date: Wed, 10 Jul 2024 23:47:00 GMT
+Cache-Control: private
+X-Content-Type-Options: nosniff
+Via: 1.1 864fed36ac196777ef6a560e242c1b00.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO53-P3
+X-Amzn-Requestid: a771a6a5-88d9-4d14-a735-b119ef24d5af
+X-Amzn-Remapped-Content-Length: 13297
+X-Amzn-Remapped-Connection: keep-alive
+X-Amz-Cf-Id: t8SzimvD8dkjIZ5omy1DybGAFAaUXDzzXfLRCy1FcXZj_ecnjHEFPg==

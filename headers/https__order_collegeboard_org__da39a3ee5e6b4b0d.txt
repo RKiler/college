@@ -1,0 +1,18 @@
+200 OK
+Retry-Count: 0
+P3p: CP="CUR OTR STA"
+Cache-Control: public,must-revalidate,max-age=0,s-maxage=600
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Vary: Accept-Encoding
+Last-Modified: Wed, 10 Jul 2024 23:47:20 GMT
+X-Frame-Options: ALLOW-FROM 'self'
+X-Content-Type-Options: nosniff
+X-Ua-Compatible: IE=edge
+Referrer-Policy: origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests frame-ancestors 'self' *.lightning.force.com *.vf.force.com
+Expires: Wed, 10 Jul 2024 23:47:20 GMT
+Set-Cookie: CookieConsentPolicy=0:1; path=/; expires=Thu, 10-Jul-2025 23:47:20 GMT; Max-Age=31536000; secure LSKey-c$CookieConsentPolicy=0:1; path=/; expires=Thu, 10-Jul-2025 23:47:20 GMT; Max-Age=31536000; secure apex__cclgtkn=; path=/; secure; SameSite=Strict apex__effacc=; path=/; expires=Thu, 01-Jan-1970 00:00:00 GMT; Max-Age=0; secure; SameSite=Strict
+Server: sfdcedge
+X-Sfdc-Request-Id: 448fbb9a6e4d27da702aa87bd1bcb10f
+Date: Wed, 10 Jul 2024 23:47:21 GMT
+Content-Type: text/html;charset=UTF-8

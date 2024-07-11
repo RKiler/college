@@ -1,0 +1,23 @@
+200 OK
+Retry-Count: 0
+Content-Type: text/html
+Content-Length: 2670
+Date: Wed, 10 Jul 2024 23:46:30 GMT
+X-Frame-Options: DENY
+X-Amz-Cf-Pop: SFO53-P5
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Last-Modified: Mon, 01 Jul 2024 01:35:09 GMT
+Etag: "0a181adeb78d22ded25fe40e8dd76435"
+Vary: Accept-Encoding
+X-Cache: Error from cloudfront
+Server: AmazonS3
+X-Amz-Cf-Id: NHQhLtpsZyd-I7jxf0pORMMLLTmCzDrBOwABmmXAa8doemMIqdQy-Q==
+Via: 1.1 0a60df055acf18164b14661cb4d16952.cloudfront.net (CloudFront)
+Age: 28
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: same-origin
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Version-Id: mvfCR0ocopbkPqRp4c1YXa5tJ5AOFn4r
+Accept-Ranges: bytes
+Cache-Control: max-age=60

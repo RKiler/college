@@ -1,0 +1,22 @@
+403 Forbidden
+Server: CloudFront
+X-Amzn-Requestid: 12824847-556a-4a7b-92d0-2573cc380b99
+Retry-Count: 0
+Via: 1.1 6af36c6902a46beec743522a9bbb3ab0.cloudfront.net (CloudFront), 1.1 f67abd22fb9935f360cd6b568deabdf0.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: gPJp2Zd3s6qIlzLTFqCt3YBczwi98lFbt70ZOkDZt5ym8QadFClCUw==
+X-Amzn-Errortype: MissingAuthenticationTokenException
+X-Cache: Error from cloudfront
+Content-Type: application/json
+Content-Length: 42
+Date: Wed, 10 Jul 2024 23:46:27 GMT
+X-Amz-Apigw-Id: auGFGE8PoAMEkXA=
+X-Frame-Options: DENY
+Expect-Ct: enforce, max-age=86400
+Content-Security-Policy: default-src 'none'; base-uri 'self'; img-src 'self'; script-src 'self'; style-src 'self' https:; object-src 'none'; frame-ancestors 'self'; font-src 'self' https:; form-action 'self'; manifest-src 'self'; connect-src 'self'
+X-Amzn-Trace-Id: Root=1-668f1d53-621896b519d62a7d011945a8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=86400; includeSubdomains
+Referrer-Policy: same-origin
+Access-Control-Allow-Origin: *
+X-Amz-Cf-Pop: HIO52-P1 SFO53-P4

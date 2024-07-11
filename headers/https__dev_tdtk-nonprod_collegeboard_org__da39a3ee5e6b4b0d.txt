@@ -1,0 +1,14 @@
+200 OK
+Date: Wed, 10 Jul 2024 16:19:43 GMT
+Last-Modified: Wed, 10 Jul 2024 16:19:23 GMT
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Cf-Id: 2MIUmAAoOWdamj5SJiXVxfbg-WqCwzCv66nHcz7NxL54UiZp41vwPg==
+Content-Type: text/html
+Server: AmazonS3
+Via: 1.1 7668594243430279f10ff22912314ba4.cloudfront.net (CloudFront)
+Age: 26838
+Vary: Accept-Encoding
+Retry-Count: 0
+Etag: W/"0b04e790233cc0bdbc9aa7a4ba6dc78b"
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: SFO53-P4

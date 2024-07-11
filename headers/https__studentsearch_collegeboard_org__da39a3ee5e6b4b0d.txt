@@ -1,0 +1,27 @@
+200 OK
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Access-Control-Allow-Origin: *
+X-Age: 20
+Cf-Cache-Status: HIT
+Cf-Ray: 8a14704949591726-SJC
+Date: Wed, 10 Jul 2024 23:47:23 GMT
+Content-Security-Policy: frame-ancestors 'self';
+X-Drupal-Dynamic-Cache: HIT
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Amz-Cf-Id: eQEDV4sbHY2KhlhxkJaU0FgSqn082N9ster4Fw6eotmNA_5kAKnI8w==
+Cache-Control: public, max-age=0, s-maxage=2628000
+Retry-Count: 0
+Content-Type: text/html; charset=UTF-8
+X-Ah-Environment: prod
+X-Cache-Hits: 1
+X-Amz-Cf-Pop: SFO53-P5
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Content-Length: 41150
+Expires: Wed, 10 Jul 2024 23:47:23 GMT
+Vary: Cookie,Accept-Encoding
+X-Generator: Drupal 10 (https://www.drupal.org)
+Last-Modified: Mon, 08 Jul 2024 15:20:09 GMT
+X-Request-Id: v-9006eebe-3d3d-11ef-8c8e-c3a3581fedcd
+Server: cloudflare

@@ -1,0 +1,17 @@
+403 Forbidden
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+Vary: Origin
+X-Amz-Bucket-Region: us-west-1
+X-Amz-Cf-Pop: SFO5-P1
+X-Frame-Options: SAMEORIGIN
+Retry-Count: 0
+Via: 1.1 b550b766973955a6da991a99c1400ae2.cloudfront.net (CloudFront)
+Strict-Transport-Security: max-age=31536000
+X-Cache: Error from cloudfront
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: JPBkaZ-IJ-bb_WoxoMlAGkF9C6pz4XQRENMaBiSH6nTKcG1GtCXfBw==
+X-Xss-Protection: 1; mode=block
+Date: Wed, 10 Jul 2024 23:47:00 GMT
+Server: AmazonS3
+Content-Type: application/xml

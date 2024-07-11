@@ -1,0 +1,13 @@
+200 OK
+Strict-Transport-Security: max-age=31622400; includeSubDomains
+Content-Security-Policy: default-src * data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; img-src * data: blob: 'unsafe-inline'; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline'; connect-src * data: blob: 'unsafe-inline'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; frame-src * data: blob:
+Accept-Ranges: bytes
+Retry-Count: 0
+Content-Type: text/html
+Content-Length: 247
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Last-Modified: Mon, 14 Nov 2022 17:13:08 GMT
+Server: Jetty(10.0.6)
+Date: Wed, 10 Jul 2024 23:46:43 GMT

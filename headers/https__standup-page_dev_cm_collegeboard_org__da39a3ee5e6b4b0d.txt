@@ -1,0 +1,16 @@
+200 OK
+Content-Length: 579
+Date: Wed, 10 Jul 2024 14:04:31 GMT
+X-Amz-Cf-Id: 3iZnMptWkeA6-UXJGilZjiUBtpMlzASH_roO77SSfxykx4D8F3dCBw==
+Age: 34968
+Via: 1.1 4aba7ea5aadcfe6838cddf2c73cd245a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO53-P4
+Last-Modified: Mon, 05 Jun 2023 14:58:26 GMT
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Content-Type: text/html
+X-Amz-Server-Side-Encryption: AES256
+Server: AmazonS3
+Etag: "20d2940d702c2c010265c67095fd3e5a"
+Retry-Count: 0

@@ -1,0 +1,12 @@
+404 NOT FOUND
+Content-Type: text/html; charset=utf-8
+Server: nginx
+Ft_otel_traceid: ecb3e05ef322a06ac299f8799211e16b
+X-Frame-Options: deny
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Date: Wed, 10 Jul 2024 23:47:07 GMT
+Content-Length: 207
+Access-Control-Allow-Credentials: true
+Content-Security-Policy: default-src 'self' collegeboard.org *.collegeboard.org
+X-Content-Type-Options: nosniff
+Retry-Count: 0

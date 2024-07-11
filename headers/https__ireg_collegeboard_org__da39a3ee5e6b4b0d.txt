@@ -1,0 +1,14 @@
+200 OK
+Date: Wed, 10 Jul 2024 23:46:47 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: script-src 'nonce-RdDagwo/2A57bROCMYINdu2Inv/06/FDwvhFWQV5J10=' 'unsafe-eval' 'strict-dynamic';form-action 'self';frame-ancestors 'self';frame-src 'self';base-uri 'none'
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Expires: Wed, 10 Jul 2024 23:46:47 GMT
+Content-Type: text/html; charset=utf-8
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Pragma: no-cache
+Cache-Control: max-age=0, no-cache, no-store
+Set-Cookie: RequestAntiForgeryKey=CfDJ8D3PN2uJYrVHqbhBb-OvldjseRtOTzDjibrD_aUWiElrYaYDdJMNTHjvR8UYF53fs2QWVEgytkhEE-ITwUFQxrlfkPtjK6vFdEsb5BGrUQkUa8kDl-XnojZtHcdkWmp2jhlbJB4ipAwgAl7pV5cP2zA; path=/; secure; samesite=strict; httponly .AspNetCore.Mvc.CookieTempDataProvider=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; samesite=lax; httponly UMB_SESSION=CfDJ8D3PN2uJYrVHqbhBb%2BOvldiXmNEErwCt%2F4XjhGebkK56qpPCmmpV%2FOWXm4fLoSsiP%2Fpq3fbD89DBEzTdhKwd3BaExJ%2F%2FJBhciUJvMjpcL8Pc9UiunZfD9FwvkS74dZy7fU3OvmGwp6NT%2BulFQ7cdW3f1KKNgzzrDryNfM0JYM%2Fq7; path=/; secure; samesite=lax; httponly
+Retry-Count: 0

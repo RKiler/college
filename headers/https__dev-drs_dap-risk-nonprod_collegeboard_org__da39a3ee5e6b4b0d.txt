@@ -1,0 +1,19 @@
+403 Forbidden
+X-Content-Type-Options: nosniff
+Content-Length: 42
+X-Amzn-Errortype: MissingAuthenticationTokenException
+X-Amz-Cf-Id: K4CfuUe257x5XCfiiZTdNUDaHnPXcBVnXK7Gud2QpU19_JhtLwpRCw==
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=31536000
+X-Amz-Apigw-Id: auGINHrioAMEONg=
+Via: 1.1 d2eee4570fb3f8a71019ccb7acd567ce.cloudfront.net (CloudFront), 1.1 771001bf23680c4bf66e77caba3ceaba.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: SFO5-P1 SFO53-C1
+Date: Wed, 10 Jul 2024 23:46:47 GMT
+X-Amzn-Requestid: bad17a35-37b7-420a-bd5f-0f0f0d24bae6
+Vary: Origin
+Retry-Count: 0
+Content-Type: application/json
+X-Amzn-Trace-Id: Root=1-668f1d67-12772efb6c76ed85007c149d
+X-Cache: Error from cloudfront
+Referrer-Policy: strict-origin-when-cross-origin
